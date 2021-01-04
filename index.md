@@ -1,9 +1,5 @@
 ## Project Portfolio
 ---
-[Medical Image Segmentation](/unet_page)
-<img src="images/unet_thumbnail.png?raw=true"/>
-
----
 [Covid Map Webapp](/Map_page)
 <img src="images/Map_thumbnail.png?raw=true"/>
 
