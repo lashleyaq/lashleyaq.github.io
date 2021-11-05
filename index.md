@@ -1,5 +1,8 @@
 ## Project Portfolio
 ---
+[HindsightAI](/Clip_page)
+
+---
 [Covid Map Webapp](/Map_page)
 <img src="images/Map_thumbnail.png?raw=true"/>
 
