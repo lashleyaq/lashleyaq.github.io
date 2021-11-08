@@ -1,8 +1,8 @@
 # Project Portfolio
 ---
 # [HindsightAI](/Clip_page)
-A webapp that leverages OpenAI's CLIP model to allow users to query any 
-video for anything.
+Query **any** video for **anything** using this webapp that extends the power of 
+OpenAI's CLIP to video content.
 
 ---
 # [Covid Map Webapp](/Map_page)
