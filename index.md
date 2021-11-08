@@ -3,6 +3,7 @@
 # [HindsightAI](/Clip_page)
 Query **any** video for **anything** using this webapp that extends the power of 
 OpenAI's CLIP to video content.
+<img src="images/clip_overview?raw=true"/>
 
 ---
 # [Covid Map Webapp](/Map_page)
