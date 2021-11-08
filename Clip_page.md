@@ -1,7 +1,7 @@
 # **CLIP Video-Querying Webapp**
 <span style="color:darkgrey;">August 2021 </span>
 
-<img src="images/clip_overview?raw=true"/>  
+<img src="images/clip_overview.png?raw=true"/>  
 
 ## **Project Description:**  
 HindsightAI is a web application that allows users to query their own video content for objects, actions, and situations that occur within it. In order to accomplish this task our application leverages the power of OpenAI’s cutting-edge CLIP image classification model.  
