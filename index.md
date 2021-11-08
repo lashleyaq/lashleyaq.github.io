@@ -2,7 +2,8 @@
 ---
 # [HindsightAI](/Clip_page)
 Query **any** video for **anything** using this webapp that extends the power of 
-OpenAI's CLIP to video content.
+OpenAI's CLIP to video content.  
+
 <img src="images/clip_overview.png?raw=true"/>
 
 ---
